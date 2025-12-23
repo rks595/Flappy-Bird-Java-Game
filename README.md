@@ -17,4 +17,4 @@ gravity-based movement, collision detection, and score tracking.
 
 ## How to Run
 1. Open the project in Eclipse or IntelliJ
-2. Run the FlappyBird.java file
+2. Run the Birdgame.java file
